@@ -4,7 +4,15 @@ Hi 👋 My name is Lucas Becker
 Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
 --------------------------------------------------------------------------
 
-🖥️ Full Stack Development: I excel in building robust web applications with a back-end powered by Java, Spring, and Maven. My front-end development is characterized by dynamic and responsive designs, thanks to my proficiency with React, Tailwind CSS, HTML, and CSS. 💽 Database Management: Skilled in MySQL, I design and manage efficient, reliable databases that form the backbone of every great application. 🔄️ Version Control: With a thorough understanding of git and GitHub, I ensure smooth workflow and collaboration in my projects, maintaining high standards of code integrity and organization. 🐧 Open Source: Passionate about the open-source movement, I actively contribute to and prefer open-source software for its collaborative nature and community-driven innovation. Despite my preference for it, I make use of proprietary solutions when they make more sense. 🕹️Game Development: I enjoy making games and sometimes participate in game jams. I'm primarily using the free and open source Godot Engine.
+🖥️ **Full Stack Development:** I excel in building robust web applications with a back-end powered by Java, Spring, and Maven. My front-end development is characterized by dynamic and responsive designs, thanks to my proficiency with React, Tailwind CSS, HTML, and CSS. 
+
+💽 **Database Management:** Skilled in MySQL, I design and manage efficient, reliable databases that form the backbone of every great application. 
+
+🔄️ **Version Control:** With a thorough understanding of git and GitHub, I ensure smooth workflow and collaboration in my projects, maintaining high standards of code integrity and organization. 
+
+🐧 **Open Source:** Passionate about the open-source movement, I actively contribute to and prefer open-source software for its collaborative nature and community-driven innovation. Despite my preference for it, I make use of proprietary solutions when they make more sense. 
+
+🕹️ **Game Development:** I enjoy making games and sometimes participate in game jams. I'm primarily using the free and open source Godot Engine.
 
 * 🌍  I'm based in Danville, PA
 * 🖥️  See my portfolio at [https://lucasbecker-dev.github.io/](http://lucasbecker-dev.github.io/)
