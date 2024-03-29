@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Becker
 Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
 --------------------------------------------------------------------------
 
-🖥️ **Full Stack Development:** I excel in building robust web applications with a back-end powered by Java, Spring, and Maven. My front-end development is characterized by dynamic and responsive designs, thanks to my proficiency with React, Tailwind CSS, HTML, and CSS. 
+🖥️ **Full Stack Development:** I excel in building robust web applications with a back-end powered by Java, Spring, and Maven. My front-end development is characterized by dynamic and responsive designs, thanks to my proficiency with Javascript, Typescript, React, Tailwind CSS, HTML, and CSS. 
 
 💽 **Database Management:** Skilled in MySQL, I design and manage efficient, reliable databases that form the backbone of every great application. 
 
