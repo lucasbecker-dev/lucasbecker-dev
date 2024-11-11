@@ -10,7 +10,7 @@ Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
 
 🔄️ **Version Control:** With a thorough understanding of Git and GitHub, I ensure a smooth workflow and collaboration in my projects, maintaining high standards of code integrity and organization. 
 
-🐧 **Open Source:** Interested in the open-source movement, I actively contribute to and generally prefer open-source software for its collaborative nature and community-driven innovation. Despite my preference for it, I use of proprietary solutions when they make more sense. 
+🐧 **Open Source:** Interested in the open-source movement, I actively contribute to and generally prefer open-source software for its collaborative nature and community-driven innovation. Despite my preference for it, I use proprietary solutions when they make more sense. 
 
 🕹️ **Game Development:** I enjoy making games and sometimes participate in game jams. I'm primarily using the free and open source Godot Engine.
 
