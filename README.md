@@ -1,14 +1,15 @@
 Hi 👋 My name is Lucas Becker
-=============================
+---
 
 Full Stack Software Developer - Java | Spring | Maven | Hibernate | MySQL | TypeScript | React
-----------------------------------------------------------------------------------------------
+---
 
-🖥️ Full Stack Development: I specialize in web applications with a back end powered by Java, Spring, Maven, SQL, and Hibernate. My front-end development is built on my proficiency with Javascript, TypeScript, React, HTML, and CSS. 
-
-💽 Database Management: MySQL and MariaDB are my strongest. I also have some experience with PostgreSQL and some no-SQL solutions like MongoDB.
-
-🕹️ Game Development: I enjoy making games and sometimes participate in game jams. I'm primarily using the free and open source Godot Engine.
+- **Back End Development:** Working professionally with with **PHP** and **MySQL** / **MariaDB**. Background is in **Java**, **Spring Boot**, **Maven**, and **MySQL**. Also have some experience with **Node.js** and **Next.js** as well as **Python** with **Flask**.
+- **Front End Development:** **React** with **JavaScript** or **TypeScript**. Have also worked with server-side rendering via **Spring Boot** and **Hibernate**. 
+- **Database Management:** Strongest with **MySQL** and **MariaDB**. Also have experience with **PostgreSQL** and no-SQL solutions like **MongoDB**.
+- **Systems Programming:** Experience using **C++** and **Rust** to build high performance algorithms and systems.
+- **Game Development:** Enjoys making games and sometimes participates in game jams. Primarily using the free and open source **Godot Engine**.
+---
 
 * 🌍  I'm based in central Pennsylvania
 * 🖥️  See my portfolio at [http://lucasbecker-dev.github.io/](http://lucasbecker-dev.github.io/)
@@ -26,8 +27,3 @@ Full Stack Software Developer - Java | Spring | Maven | Hibernate | MySQL | Type
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lucasbecker-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucasbecker-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Support Me
-
-<a href="https://www.ko-fi.com/lucasbecker_dev"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-
