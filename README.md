@@ -4,21 +4,16 @@ Hi 👋 My name is Lucas Becker
 Full Stack Software Developer - Java | Spring | Maven | Hibernate | MySQL | TypeScript | React
 ----------------------------------------------------------------------------------------------
 
-🖥️ Full Stack Development: I excel in building robust web applications with a back end powered by Java, Spring, Maven, SQL, and Hibernate. My front-end development is characterized by dynamic and responsive designs, thanks to my proficiency with Javascript, TypeScript, React, HTML, and CSS. 
+🖥️ Full Stack Development: I specialize in web applications with a back end powered by Java, Spring, Maven, SQL, and Hibernate. My front-end development is built on my proficiency with Javascript, TypeScript, React, HTML, and CSS. 
 
-💽 Database Management: Skilled in MySQL, I design and manage efficient, reliable databases that form the backbone of every great application. 
-
-🔄️ Version Control: With a thorough understanding of Git and GitHub, I ensure a smooth workflow and collaboration in my projects, maintaining high standards of code integrity and organization. 
+💽 Database Management: MySQL and MariaDB are my strongest. I also have some experience with PostgreSQL and some no-SQL solutions like MongoDB.
 
 🕹️ Game Development: I enjoy making games and sometimes participate in game jams. I'm primarily using the free and open source Godot Engine.
 
 * 🌍  I'm based in central Pennsylvania
 * 🖥️  See my portfolio at [http://lucasbecker-dev.github.io/](http://lucasbecker-dev.github.io/)
 * ✉️  You can contact me at [lucasbecker.dev@gmail.com](mailto:lucasbecker.dev@gmail.com)
-* 🚀  I'm currently working on [Y.E.A.H. App with We Make Good Software](http://wemakegoodsoftware.com/)
-* 🧠  I'm learning SQL database optimization strategies
 * 🤝  I'm open to collaborating on web apps, open source projects, and indie game projects
-* ⚡  I'm attending WGU to obtain my Bachelor's in Computer Science
 
 ### Skills
 
