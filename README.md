@@ -4,9 +4,16 @@ Hi 👋 My name is Lucas Becker
 Full Stack Software Developer - Java | Spring | Maven | Hibernate | MySQL | TypeScript | React
 ---
 
-- **Back End Development:** Working professionally with with **PHP** and **MySQL** / **MariaDB**. Background is in **Java**, **Spring Boot**, **Maven**, and **MySQL**. Also have some experience with **Node.js** and **Next.js** as well as **Python** with **Flask**.
-- **Front End Development:** **React** with **JavaScript** or **TypeScript**. Have also worked with server-side rendering via **Spring Boot** and **Hibernate**. 
-- **Database Management:** Strongest with **MySQL** and **MariaDB**. Also have experience with **PostgreSQL** and no-SQL solutions like **MongoDB**.
+- **Back End Development:**
+  - Working professionally with with **PHP** and **MySQL** / **MariaDB**.
+  - Background is in **Java**, **Spring Boot**, **Maven**, and **MySQL**.
+  - Also have experience with **Node.js** and **Next.js** as well as **Python** with **Flask**.
+- **Front End Development:**
+  - **React** with **JavaScript** or **TypeScript**.
+  - Have also worked with server-side rendering via **Spring Boot** and **Hibernate**. 
+- **Database Management:**
+  - Strongest with **MySQL** and **MariaDB**.
+  - Also have experience with **PostgreSQL** and no-SQL solutions like **MongoDB**.
 - **Systems Programming:** Experience using **C++** and **Rust** to build high performance algorithms and systems.
 - **Game Development:** Enjoys making games and sometimes participates in game jams. Primarily using the free and open source **Godot Engine**.
 ---
